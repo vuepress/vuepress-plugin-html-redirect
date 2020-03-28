@@ -28,6 +28,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "@vuepress/shared-utils": "^2.0.0",
     "conventional-changelog-cli": "^2.0.31",
     "eslint": "^6.8.0",
     "eslint-config-lab": "^0.1.4",
