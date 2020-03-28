@@ -39,11 +39,9 @@ module.exports = {
 // .vuepress/config.js
 module.exports = {
   plugins: [
-    [
-      'dynamic-base', {
+    ['@vuepress/html-redirect', {
         duration: 0
-      }
-    ]
+    }]
   ]
 }
 ```
