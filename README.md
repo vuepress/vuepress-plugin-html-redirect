@@ -21,6 +21,23 @@ yarn add -D @vuepress/plugin-html-redirect
 
 ## Usage
 
+- Write redirects:
+
+You should write `redirects` config at `/path/to/.vuepress/redirects` file, whose format is as follows:
+
+```
+[url] [redirect_url]
+[url] [redirect_url]
+[url] [redirect_url]
+...
+```
+
+example:
+
+```
+/2020/03/27/webpack-5-module-federation/ /translations/2020/03/27/webpack-5-module-federation/
+``` 
+
 - Simple usage:
 
 ```js
@@ -54,6 +71,12 @@ It means that the publc path will be different acccording to the NEV you set, an
 
 - Type: `string`
 - Description: Control how many seconds the page will be redirected.
+
+## TODO
+
+- Support directory redirects.
+
+PR welcome!
 
 ## Contributing
 
