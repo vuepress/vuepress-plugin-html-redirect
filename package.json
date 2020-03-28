@@ -34,5 +34,8 @@
     "eslint-config-lab": "^0.1.4",
     "jest-cli": "^24.8.0",
     "depcost": "^0.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
