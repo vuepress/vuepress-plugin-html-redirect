@@ -23,7 +23,7 @@ yarn add -D @vuepress/plugin-html-redirect
 
 - Write redirects:
 
-You should write `redirects` config at `/path/to/.vuepress/redirects` file, whose format is as follows:
+The agreed file to write `redirects` config is `/path/to/.vuepress/redirects`, whose format is as follows:
 
 ```
 [url] [redirect_url]
