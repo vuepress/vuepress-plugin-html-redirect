@@ -1,6 +1,6 @@
 # @vuepress/plugin-html-redirect
 
-[![NPM version](https://img.shields.io/npm/v/@vuepress/plugin-html-redirect.svg?style=flat)](https://npmjs.com/package/@vuepress/plugin-html-redirect) [![NPM downloads](https://img.shields.io/npm/dm/@vuepress/plugin-html-redirect.svg?style=flat)](https://npmjs.com/package/@vuepress/plugin-html-redirect) ![Node.js CI](https://github.com/vuepressjs/@vuepress/plugin-html-redirect/workflows/Node.js%20CI/badge.svg)
+[![NPM version](https://img.shields.io/npm/v/@vuepress/plugin-html-redirect.svg?style=flat)](https://npmjs.com/package/@vuepress/plugin-html-redirect) [![NPM downloads](https://img.shields.io/npm/dm/@vuepress/plugin-html-redirect.svg?style=flat)](https://npmjs.com/package/@vuepress/plugin-html-redirect) ![Node.js CI](https://github.com/vuepressjs/vuepress-plugin-html-redirect/workflows/Node.js%20CI/badge.svg)
 
 ## Feature
 
