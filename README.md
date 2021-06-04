@@ -44,8 +44,8 @@ example:
 // .vuepress/config.js
 module.exports = {
   plugins: [
-    '@vuepress/html-redirect' // OR full name: '@vuepress/plugin-html-redirect'
-  ]
+    '@vuepress/html-redirect', // OR full name: '@vuepress/plugin-html-redirect'
+  ],
 }
 ```
 
@@ -57,9 +57,9 @@ module.exports = {
 module.exports = {
   plugins: [
     ['@vuepress/html-redirect', {
-        duration: 0
-    }]
-  ]
+      countdown: 0,
+    }],
+  ],
 }
 ```
 
@@ -67,10 +67,10 @@ It means that the publc path will be different acccording to the NEV you set, an
 
 ## Options
 
-### duration
+### countdown
 
 - Type: `string`
-- Description: Control how many seconds the page will be redirected.
+- Description: Control how many seconds the page will be redirected, defaults to `3`.
 
 ## TODO
 
