@@ -1,3 +1,12 @@
+## [0.1.4](https://github.com/vuepressjs/vuepress-plugin-html-redirect/compare/v0.1.3...v0.1.4) (2021-06-04)
+
+
+### Bug Fixes
+
+* typo (close: [#1](https://github.com/vuepressjs/vuepress-plugin-html-redirect/issues/1)) ([a0819f8](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/a0819f815f4c69664000382a32f196bc27529c8e))
+
+
+
 ## [0.1.3](https://github.com/vuepressjs/vuepress-plugin-html-redirect/compare/75312b53da99868aedc3e109929c2d30709fd316...v0.1.3) (2021-06-03)
 
 
