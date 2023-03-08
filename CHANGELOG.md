@@ -1,3 +1,13 @@
+## [0.2.1](https://github.com/vuepressjs/vuepress-plugin-html-redirect/compare/v0.2.0...v0.2.1) (2023-03-08)
+
+
+### Bug Fixes
+
+* only trigger history redirect at client side ([159aa6f](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/159aa6fffc297241ada9817ad52605e1236e43ae))
+* TypeError: Cannot read properties of undefined (reading 'startsWith') ([aada81e](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/aada81eca9be976df5b209f65a3b3611cb98892d))
+
+
+
 # [0.2.0](https://github.com/vuepressjs/vuepress-plugin-html-redirect/compare/75312b53da99868aedc3e109929c2d30709fd316...v0.2.0) (2023-03-08)
 
 
