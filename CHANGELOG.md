@@ -1,3 +1,22 @@
+# [0.2.0](https://github.com/vuepressjs/vuepress-plugin-html-redirect/compare/75312b53da99868aedc3e109929c2d30709fd316...v0.2.0) (2023-03-08)
+
+
+### Bug Fixes
+
+* docs ([69a467d](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/69a467db440b0fefb55b7b68430a958196f9e58b))
+* only ensure leading and ending slash for internal links ([#3](https://github.com/vuepressjs/vuepress-plugin-html-redirect/issues/3)) ([90c2ffb](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/90c2ffb80f81269febce789c3dabd54dac1b5c90))
+* script error when countdown is 0. ([ec8020e](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/ec8020e3d6fc9132902c83998587ed2e7d6c77c1))
+* should not generate tip when countdown is 0. ([4235e61](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/4235e6114d0ccee87a5e3a4c07f2823ab34ff22b))
+* typo (close: [#1](https://github.com/vuepressjs/vuepress-plugin-html-redirect/issues/1)) ([a0819f8](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/a0819f815f4c69664000382a32f196bc27529c8e))
+
+
+### Features
+
+* `enableHistoryRedirect` option ([#14](https://github.com/vuepressjs/vuepress-plugin-html-redirect/issues/14)) ([a0b12b6](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/a0b12b6094b6b5f15f1224d74ec94192a9e0e7c0))
+* init ([75312b5](https://github.com/vuepressjs/vuepress-plugin-html-redirect/commit/75312b53da99868aedc3e109929c2d30709fd316))
+
+
+
 ## [0.1.4](https://github.com/vuepressjs/vuepress-plugin-html-redirect/compare/v0.1.3...v0.1.4) (2021-06-04)
 
 

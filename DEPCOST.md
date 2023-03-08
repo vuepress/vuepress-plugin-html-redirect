@@ -1,3 +1,10 @@
+## 0.2.0
+
+| name | install size | reuqire time |
+| ---  | --- | --- |
+| @vuepress/plugin-html-redirect@0.2.0 |  36K | 0.7ms |
+
+
 ## 0.1.4
 
 | name | install size | reuqire time |
